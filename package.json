@@ -1,0 +1,19 @@
+{
+  "name": "netflixredesign",
+  "version": "1.0.0",
+  "description": "Netflix Redesign",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest\\"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divya120/NeflixRedesign.git"
+  },
+  "author": "Divya Kulkarni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/divya120/NeflixRedesign/issues"
+  },
+  "homepage": "https://github.com/divya120/NeflixRedesign#readme"
+}
